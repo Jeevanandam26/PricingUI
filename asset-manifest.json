@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pricingUI/static/css/main.5dbcb9e0.css",
+    "main.js": "/pricingUI/static/js/main.24fb43e7.js",
+    "static/js/453.8e795910.chunk.js": "/pricingUI/static/js/453.8e795910.chunk.js",
+    "index.html": "/pricingUI/index.html",
+    "main.5dbcb9e0.css.map": "/pricingUI/static/css/main.5dbcb9e0.css.map",
+    "main.24fb43e7.js.map": "/pricingUI/static/js/main.24fb43e7.js.map",
+    "453.8e795910.chunk.js.map": "/pricingUI/static/js/453.8e795910.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dbcb9e0.css",
+    "static/js/main.24fb43e7.js"
+  ]
+}
